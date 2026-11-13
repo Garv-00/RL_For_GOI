@@ -1,0 +1,9 @@
+F:\Coding\Python\Machine-Learning\Getting.Over.It.with.Bennett.Foddy.v1.7\getting_over_it_rl\plugin\bin\Release\net472\GoiBridge.dll
+F:\Coding\Python\Machine-Learning\Getting.Over.It.with.Bennett.Foddy.v1.7\getting_over_it_rl\plugin\bin\Release\net472\GoiBridge.pdb
+F:\Coding\Python\Machine-Learning\Getting.Over.It.with.Bennett.Foddy.v1.7\getting_over_it_rl\plugin\obj\Release\net472\GoiBridge.csproj.AssemblyReference.cache
+F:\Coding\Python\Machine-Learning\Getting.Over.It.with.Bennett.Foddy.v1.7\getting_over_it_rl\plugin\obj\Release\net472\GoiBridge.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding\Python\Machine-Learning\Getting.Over.It.with.Bennett.Foddy.v1.7\getting_over_it_rl\plugin\obj\Release\net472\GoiBridge.AssemblyInfoInputs.cache
+F:\Coding\Python\Machine-Learning\Getting.Over.It.with.Bennett.Foddy.v1.7\getting_over_it_rl\plugin\obj\Release\net472\GoiBridge.AssemblyInfo.cs
+F:\Coding\Python\Machine-Learning\Getting.Over.It.with.Bennett.Foddy.v1.7\getting_over_it_rl\plugin\obj\Release\net472\GoiBridge.csproj.CoreCompileInputs.cache
+F:\Coding\Python\Machine-Learning\Getting.Over.It.with.Bennett.Foddy.v1.7\getting_over_it_rl\plugin\obj\Release\net472\GoiBridge.dll
+F:\Coding\Python\Machine-Learning\Getting.Over.It.with.Bennett.Foddy.v1.7\getting_over_it_rl\plugin\obj\Release\net472\GoiBridge.pdb

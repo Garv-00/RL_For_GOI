@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Coding\\Python\\Machine-Learning\\Getting.Over.It.with.Bennett.Foddy.v1.7\\getting_over_it_rl\\plugin\\GoiBridge.csproj": {}
+  },
+  "projects": {
+    "F:\\Coding\\Python\\Machine-Learning\\Getting.Over.It.with.Bennett.Foddy.v1.7\\getting_over_it_rl\\plugin\\GoiBridge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Coding\\Python\\Machine-Learning\\Getting.Over.It.with.Bennett.Foddy.v1.7\\getting_over_it_rl\\plugin\\GoiBridge.csproj",
+        "projectName": "GoiBridge",
+        "projectPath": "F:\\Coding\\Python\\Machine-Learning\\Getting.Over.It.with.Bennett.Foddy.v1.7\\getting_over_it_rl\\plugin\\GoiBridge.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "F:\\Coding\\Python\\Machine-Learning\\Getting.Over.It.with.Bennett.Foddy.v1.7\\getting_over_it_rl\\plugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
